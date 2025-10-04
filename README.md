@@ -10,7 +10,7 @@ The dataset is sourced from [Google Play Store Apps](https://raw.githubuserconte
 - Data cleaning and preprocessing
 - Handling missing values
 - Exploratory Data Analysis (EDA)
-- Visualization of:
+- Visualization of: 
   - App categories
   - Ratings distribution
   - Installs and pricing trends
